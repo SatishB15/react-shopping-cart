@@ -1,0 +1,38 @@
+.home-page {
+  padding: 20px 0;
+}
+
+.products-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+@media (min-width: 768px) {
+  .products-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .products-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.product-grid-item {
+  display: flex;
+}
+
+.no-products {
+  background-color: white;
+  padding: 30px;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+
+.no-products p {
+  font-size: 18px;
+  color: var(--text-light);
+}
