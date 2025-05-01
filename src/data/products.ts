@@ -71,7 +71,7 @@ export const products: ProductWithCategory[] = [
     name: "HomePod mini",
     price: 99 * conversionRate,
     description: "Compact smart speaker with amazing sound",
-    image: "https://images.unsplash.com/photo-1602511985392-7df9c8082b97?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
+    image: "https://images.unsplash.com/photo-1655481595737-a79e7592a4a4?q=80&w=300&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     detailedDescription:
       "HomePod mini fills your entire room with rich 360-degree audio...",
     category: "Audio",
@@ -91,7 +91,7 @@ export const products: ProductWithCategory[] = [
     name: "iPad Air",
     price: 599 * conversionRate,
     description: "Thin and light tablet with M1 chip",
-    image: "https://images.unsplash.com/photo-1630300236735-efb6e5bb1e08?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
+    image: "https://images.unsplash.com/photo-1648806030599-c963fd14a22f?q=80&w=300&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     detailedDescription:
       "The iPad Air is incredibly thin and light...",
     category: "Tablets",
@@ -151,7 +151,7 @@ export const products: ProductWithCategory[] = [
     name: "iPhone 14",
     price: 799 * conversionRate,
     description: "Powerful smartphone with A15 Bionic chip",
-    image: "https://images.unsplash.com/photo-1661961112959-34dd969b5cb0?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
+    image: "https://images.unsplash.com/photo-1680776785024-5223d7a75ea8?q=80&w=300&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     detailedDescription:
       "The iPhone 14 features a powerful A15 Bionic chip, a stunning Super Retina XDR display...",
     category: "Smartphones",
