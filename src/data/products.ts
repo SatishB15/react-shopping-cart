@@ -1,7 +1,7 @@
 import { ProductCategory, ProductWithCategory } from "../types/product"
 
 // Conversion rate: 1 USD = 86 INR (approximate)
-const conversionRate = 83
+const conversionRate = 86
 
 export const fallbackImage = "https://placehold.co/600x400?text=No+Image"
 
@@ -11,7 +11,7 @@ export const products: ProductWithCategory[] = [
     name: "iPhone 15 Pro",
     price: 999 * conversionRate,
     description: "The latest iPhone with A17 Pro chip and titanium design",
-    image: "https://images.unsplash.com/photo-1695245299391-396d8f07c8a4?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
+    image: "https://images.unsplash.com/photo-1703133431079-8477009d42b2?q=80&w=300&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     detailedDescription:
       "The iPhone 15 Pro features a powerful A17 Pro chip, a stunning Super Retina XDR display, and a professional camera system...",
     category: "Smartphones",
@@ -21,7 +21,7 @@ export const products: ProductWithCategory[] = [
     name: "MacBook Air M2",
     price: 1199 * conversionRate,
     description: "Ultra-thin laptop with Apple's M2 chip",
-    image: "https://images.unsplash.com/photo-1633083327285-94f85e2a5c5d?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
+    image: "https://images.unsplash.com/photo-1717865499857-ec35ce6e65fa?q=80&w=300&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     detailedDescription:
       "The MacBook Air with M2 chip delivers incredible performance...",
     category: "Laptops",
@@ -31,7 +31,7 @@ export const products: ProductWithCategory[] = [
     name: "iPad Pro",
     price: 799 * conversionRate,
     description: "Powerful tablet with M2 chip and Liquid Retina XDR display",
-    image: "https://images.unsplash.com/photo-1603386329225-86807c55a729?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
+    image: "https://images.unsplash.com/photo-1542751110-97427bbecf20?q=80&w=300&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     detailedDescription:
       "The iPad Pro is a versatile and powerful device...",
     category: "Tablets",
@@ -41,7 +41,7 @@ export const products: ProductWithCategory[] = [
     name: "Apple Watch Series 9",
     price: 399 * conversionRate,
     description: "Advanced health and fitness companion with always-on display",
-    image: "https://images.unsplash.com/photo-1618221702927-c5bce69f47d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
+    image: "https://images.unsplash.com/photo-1705307367492-fbaf340d8b72?q=80&w=300&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     detailedDescription:
       "The Apple Watch Series 9 helps you stay connected...",
     category: "Wearables",
@@ -51,7 +51,7 @@ export const products: ProductWithCategory[] = [
     name: "AirPods Pro",
     price: 249 * conversionRate,
     description: "Wireless earbuds with active noise cancellation",
-    image: "https://images.unsplash.com/photo-1585386959984-a4155224a1c6?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
+    image: "https://images.unsplash.com/photo-1624258919367-5dc28f5dc293?q=80&w=300&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     detailedDescription:
       "AirPods Pro deliver Active Noise Cancellation for immersive sound...",
     category: "Audio",
@@ -81,7 +81,7 @@ export const products: ProductWithCategory[] = [
     name: "Apple TV 4K",
     price: 179 * conversionRate,
     description: "Streaming device for your TV with A15 Bionic chip",
-    image: "https://images.unsplash.com/photo-1594282245377-6c04648a0576?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
+    image: "https://images.unsplash.com/photo-1591051475636-7afd2f54cdb9?q=80&w=300&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     detailedDescription:
       "Apple TV 4K brings the best of TV together with your favorite Apple devices...",
     category: "Accessories",
@@ -111,7 +111,7 @@ export const products: ProductWithCategory[] = [
     name: "Apple Watch Ultra",
     price: 799 * conversionRate,
     description: "Rugged and capable smartwatch for outdoor adventures",
-    image: "https://images.unsplash.com/photo-1697639948545-b8873a19191c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    image: "https://images.unsplash.com/photo-1697639948545-b8873a19191c?q=80&w=300&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     detailedDescription:
       "The Apple Watch Ultra is built for endurance, exploration, and adventure...",
     category: "Wearables",
