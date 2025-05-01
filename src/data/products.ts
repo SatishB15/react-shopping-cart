@@ -111,7 +111,7 @@ export const products: ProductWithCategory[] = [
     name: "Apple Watch Ultra",
     price: 799 * conversionRate,
     description: "Rugged and capable smartwatch for outdoor adventures",
-    image: "https://images.unsplash.com/photo-1668267118577-f8e18c2a70e1?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
+    image: "https://images.unsplash.com/photo-1697639948545-b8873a19191c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     detailedDescription:
       "The Apple Watch Ultra is built for endurance, exploration, and adventure...",
     category: "Wearables",
@@ -131,7 +131,7 @@ export const products: ProductWithCategory[] = [
     name: "Magic Keyboard",
     price: 99 * conversionRate,
     description: "Wireless keyboard with numeric keypad",
-    image: "https://images.unsplash.com/photo-1612831455549-d56a64c7f837?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
+    image: "https://images.unsplash.com/photo-1493878777218-cf22a808450c?q=80&w=300&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     detailedDescription:
       "The Magic Keyboard with Numeric Keypad features an extended layout...",
     category: "Accessories",
@@ -141,7 +141,7 @@ export const products: ProductWithCategory[] = [
     name: "Magic Mouse",
     price: 79 * conversionRate,
     description: "Wireless mouse with Multi-Touch surface",
-    image: "https://images.unsplash.com/photo-1616098413953-c8a7c21f69f3?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
+    image: "https://images.unsplash.com/photo-1643829434278-f5a36be79c43?q=80&w=300&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     detailedDescription:
       "The Magic Mouse is completely rechargeable and pairs automatically with your Mac...",
     category: "Accessories",
